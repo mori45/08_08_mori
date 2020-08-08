@@ -1,0 +1,27 @@
+.box1{
+    width: 945px;
+    height: 370px;
+
+    background-image: url("../img/01.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.box1 p {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+    margin: 0 auto;
+}
+
+.box2{
+    width: 945px;
+    height: 370px;
+
+    background-image: url("../img/02.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
